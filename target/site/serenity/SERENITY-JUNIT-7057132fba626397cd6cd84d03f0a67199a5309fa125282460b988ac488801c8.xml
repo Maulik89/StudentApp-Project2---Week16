@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.studentapp.studentinfo.StudentCRUDTestWithSteps" skipped="0" tests="1" time="0.0" timestamp="2023-03-04T13:58:07.904Z[Europe/London]"><testcase classname="com.studentapp.studentinfo.StudentCRUDTestWithSteps" name="Initialisation"><error message="null" type="java.lang.NumberFormatException">null</error><system-err>null&#13;
+com.studentapp.testbase.TestBase.init(TestBase.java:21)&#13;
+</system-err></testcase></testsuite>
